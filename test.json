@@ -1,30 +1,37 @@
 [
   {
-    "name": "Boldare",
-    "clutch_profile": "https://clutch.co/profile/boldare",
-    "country": "Poland",
-    "website": "boldare.com",
-    "rank": 408937
+    "name": "CemtrexLabs",
+    "clutch_profile": "https://clutch.co/profile/cemtrexlabs",
+    "country": "NY",
+    "website": "cemtrexlabs.com",
+    "rank": 433513
   },
   {
-    "name": "One Group Digital Solutions",
-    "clutch_profile": "https://clutch.co/profile/one-group-digital-solutions",
-    "country": "Poland",
-    "website": "ogd-solutions.com",
-    "rank": 3801603
+    "name": "Dev Technosys",
+    "clutch_profile": "https://clutch.co/profile/dev-technosys",
+    "country": "CA",
+    "website": "devtechnosys.com",
+    "rank": 148889
   },
   {
-    "name": "Ivejas",
-    "clutch_profile": "https://clutch.co/profile/ivejas",
-    "country": "Poland",
-    "website": "ivejas.com",
-    "rank": 2689235
+    "name": "Shakuro",
+    "clutch_profile": "https://clutch.co/profile/shakuro",
+    "country": "WA",
+    "website": "shakuro.com",
+    "rank": 490470
   },
   {
-    "name": "Brainhub",
-    "clutch_profile": "https://clutch.co/profile/brainhub",
-    "country": "Poland",
-    "website": "brainhub.eu",
-    "rank": 97655
+    "name": "Wolfpack Digital",
+    "clutch_profile": "https://clutch.co/profile/wolfpack-digital",
+    "country": "",
+    "website": "wolfpack-digital.com",
+    "rank": 1479938
+  },
+  {
+    "name": "RubyGarage",
+    "clutch_profile": "https://clutch.co/profile/rubygarage",
+    "country": "",
+    "website": "rubygarage.org",
+    "rank": 34462
   }
 ]
